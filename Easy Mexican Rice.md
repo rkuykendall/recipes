@@ -9,8 +9,8 @@ Source: https://www.youtube.com/watch?v=07zfMPkN_P8
   - Substitute: 1/4 tsp to 1/2 tsp onion powder
 - 2 cloves garlic minced'
   - Substitute: 1/2 tsp garlic powder
-- 1 Knorr tomato chicken bouillon cube
-  - Substitute: 1 tbsp tomato chicken bouillon powder
+- 1 tbsp tomato chicken bouillon powder
+  - Substitute: 1 Knorr tomato chicken bouillon cube
   - Substitute: 8 oz can tomato sauce and 16 oz chicken broth
 - 1/4 tsp ground cumin
   - Substitute: 1/2 tsp ground cumin if you prefer a stronger cumin taste
@@ -18,11 +18,10 @@ Source: https://www.youtube.com/watch?v=07zfMPkN_P8
 
 ## Recipie
 
-1. Add about 3 tbsp of oil to the pan (a circle a few inches across)
+1. Add about 2 tbsp of oil to the pan
 2. Add rice and cook on a medium heat for 5-7 minutes
 3. Add onion and garlic, sautee until translucent
-4. Add bouillon, make sure it breaks apart
-5. Add cumin, stir in and toast just a bit to "wake up flavors"
+4. Add bouillon and cumin, stir in and toast just a bit to "wake up flavors"
 6. Add water, mix but don't overmix or you'll release too much starch from the rice
 7. Bring to a simmer
 8. Cover with lid, lower heat, and cook for 14-18 minutes, until water evaporated)
